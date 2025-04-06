@@ -5,13 +5,13 @@ const About = () => {
                 {/* Lado izquierdo: Nombre y contacto */}
                 <div className="md:w-1/3 bg-indigo-600 text-white flex flex-col justify-center items-center p-8">
                     <h1 className="text-2xl md:text-3xl font-bold text-center mb-4">
-                        Luis Carlos Tercero Rodriguez
+                        Luis Carlos Tercero 
                     </h1>
                     <div className="text-sm space-y-2 text-center">
                         <div>
                             <span className="block font-semibold">Correo:</span>
                             <a
-                                href="mailto:tercerohshshsh@gmail.com"
+                                href="mailto:ltercero111@gmail.com"
                                 className="hover:underline"
                             >
                                 tercerohshshsh@gmail.com
